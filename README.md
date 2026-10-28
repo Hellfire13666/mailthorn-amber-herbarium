@@ -1,5 +1,7 @@
 ![MAILTHORN Banner](assets/MAILTHORN-BANNER-1600x400.png)
 
+![MAILTHORN PAGE VIEWS](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fmailthorn-amber-herbarium&label=PAGE%20VIEWS&icon=eye&color=%23FF1493&style=flat)
+
 # MAILTHORN // AMBER HERBARIUM v0.2.0
 
 **GlitchByte Phantom Labs | Public DNS & Mail Intelligence**
@@ -109,4 +111,3 @@ for Debian-based Linux systems.
 - Keep each GlitchByte tool independent, with its own repository,
   approved artwork, tests, and beginner examples.
 - Official publication uses GitHub Free. No paid upgrade is required.
-
