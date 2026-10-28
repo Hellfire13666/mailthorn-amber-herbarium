@@ -1,0 +1,44 @@
+# Local intelligence and reports
+*.json
+*.txt
+!requirements.txt
+!SHA256SUMS.txt
+reports/
+Reports/
+output/
+*.log
+
+# Personal configuration
+.env
+.env.*
+*.key
+*.pem
+
+# Python and backups
+__pycache__/
+*.py[cod]
+.pypytest_cache/
+.venv/
+*.bak
+*.backup
+
+# Local system
+.DS_Store
+*.swp
+
+# Local repair backups
+*.before-*
+
+# GLITCHBYTE PHANTOM LABS - LOCAL DATA PROTECTION
+# Research evidence and generated reports
+# Credentials and private configuration
+*.secret
+credentials*
+secrets*
+# Local repairs and backups
+*.orig
+# Python and temporary files
+.pytest_cache/
+venv/
+# Previous artwork retained locally
+assets/MAILTHORN-approved-Rosie-recipe.png
